@@ -1,0 +1,45 @@
+header{
+    background:linear-gradient(#eb92be,#ffef78,#63c9b4);
+    padding: 30px;
+    overflow: hidden;
+}
+header h1{
+    text-align: center;
+    text-transform: capitalize;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:purple;
+     font-size:330%;
+}
+nav{
+    position: sticky;
+    top:0px;
+}
+.logo{
+    width: 5%;
+    float: left;
+    border-radius: 20px;
+}
+div#about{
+    text-align: center;
+    background-color:aqua;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+.sm-handel a{
+    background-color: rgb(125 125 125/ 25%);
+    border-radius: 20px;
+    padding:10px 15px;
+    margin: 5px 10px;
+    text-decoration: none;
+}
+a:hover{
+    color: red;
+}
+i{
+    color: red;
+    margin:5px;
+}
+.twit{
+    color: blue;
+}
